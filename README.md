@@ -1,3 +1,6 @@
+# Trabalho de Implementação com Prolog para a matéria de Inteligência Artificial.
+Base de Conhecimento (Grade Curricular dos cursos de CC e SI)
+O objetivo desta atividade é desenvolver uma base de conhecimento em prolog que represente as informações básicas dos currículos dos cursos de CC e SI (Disciplinas, semestres, códigos, carga-horária etc...).
 
 # Comandos para rodar no vscode:
     ~$ swipl
